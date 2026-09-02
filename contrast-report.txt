@@ -1,0 +1,10 @@
+Minimum contrast against every pixel of the supplied texture after the CSS wash:
+
+Light primary text #171411: minimum 7.32:1 | 1st percentile 9.39:1 | median 12.10:1
+Light secondary text #3f3932: minimum 4.55:1 | 1st percentile 5.83:1 | median 7.52:1
+Light accent #6f2700: minimum 5.26:1 | 1st percentile 4.88:1 | median 6.29:1
+Dark primary text #f7f2ea: minimum 4.93:1 | 1st percentile 12.01:1 | median 16.09:1
+Dark secondary text #f0e9e1: minimum 4.56:1 | 1st percentile 11.12:1 | median 14.90:1
+Dark accent #ffeedf: minimum 4.85:1 | 1st percentile 11.82:1 | median 15.83:1
+
+WCAG AA reference: 4.5:1 for normal text; 3:1 for large text.
